@@ -143,21 +143,9 @@
                              
                   </li> 
 
-               <div class="Slider-nextprev">
-                  <a href="#" class="unslider-arrow prev">Previous slide</a>
-                  <a href="#" class="unslider-arrow next">Next slide</a>
-                 </div>
-
                 </ul>
-             
-                  <!-- <ol class="dots">
-                    <li class="dot">1</li>
-                    <li class="dot active">2</li>
-                    <li class="dot">3</li>
-                    <li class="dot">4</li>
-                  </ol>
-               </ul>
- -->           
+              <ol class="dots"></ol>
+           
             </section>
 
 
