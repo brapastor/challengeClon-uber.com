@@ -78,7 +78,7 @@
 
             <section class="Slider">
                  <ul class="Slider-containerSlider" >
-                  <li class="Slider-containerItem" >  
+                  <li class="Slider-containerItem"  style="background-image: url('assets/img/image1.jpg');">  
                       <div class="Slider-titleContainer"  > 
                          <h2 class="Slider-titulo">Dándote el gusto</h2>
                          <p class="Slider-subtitulo">REDOBLA TU ESFUERZO CUANDO QUIERAS TENER UNA GRAN NOCHE</p>
@@ -89,7 +89,7 @@
                              
                   </li> 
 
-                  <li class="Slider-containerItem" >  
+                  <li class="Slider-containerItem"  style="background-image: url('assets/img/image2.jpg');" >  
                       <div class="Slider-titleContainer"> 
                          <h2 class="Slider-titulo">Daaaaaao</h2>
                          <p class="Slider-subtitulo">REDOBLA TU ESFUERZO CUANDO QUIERAS TENER UNA GRAN NOCHE</p>
@@ -98,6 +98,50 @@
                      </div>
                       
                   </li>
+
+                    <li class="Slider-containerItem"  style="background-image: url('assets/img/image3.jpg');">  
+                      <div class="Slider-titleContainer"  > 
+                         <h2 class="Slider-titulo">Dándote el gusto</h2>
+                         <p class="Slider-subtitulo">REDOBLA TU ESFUERZO CUANDO QUIERAS TENER UNA GRAN NOCHE</p>
+                         <a class="Slider-link" href="#">Regístrate en Uber.</a>
+                         <!-- {{ HTML::image('assets/img/image1.jpg','',array('class' => 'Slider-image')) }} -->
+                     </div>
+                      
+                             
+                  </li> 
+
+                    <li class="Slider-containerItem"  style="background-image: url('assets/img/image4.jpg');">  
+                      <div class="Slider-titleContainer"  > 
+                         <h2 class="Slider-titulo">Dándote el gusto</h2>
+                         <p class="Slider-subtitulo">REDOBLA TU ESFUERZO CUANDO QUIERAS TENER UNA GRAN NOCHE</p>
+                         <a class="Slider-link" href="#">Regístrate en Uber.</a>
+                         <!-- {{ HTML::image('assets/img/image1.jpg','',array('class' => 'Slider-image')) }} -->
+                     </div>
+                      
+                             
+                  </li> 
+
+                    <li class="Slider-containerItem"  style="background-image: url('assets/img/image5.jpg');">  
+                      <div class="Slider-titleContainer"  > 
+                         <h2 class="Slider-titulo">Dándote el gusto</h2>
+                         <p class="Slider-subtitulo">REDOBLA TU ESFUERZO CUANDO QUIERAS TENER UNA GRAN NOCHE</p>
+                         <a class="Slider-link" href="#">Regístrate en Uber.</a>
+                         <!-- {{ HTML::image('assets/img/image1.jpg','',array('class' => 'Slider-image')) }} -->
+                     </div>
+                      
+                             
+                  </li> 
+
+                    <li class="Slider-containerItem"  style="background-image: url('assets/img/image6.jpg');">  
+                      <div class="Slider-titleContainer"  > 
+                         <h2 class="Slider-titulo">Dándote el gusto</h2>
+                         <p class="Slider-subtitulo">REDOBLA TU ESFUERZO CUANDO QUIERAS TENER UNA GRAN NOCHE</p>
+                         <a class="Slider-link" href="#">Regístrate en Uber.</a>
+                         <!-- {{ HTML::image('assets/img/image1.jpg','',array('class' => 'Slider-image')) }} -->
+                     </div>
+                      
+                             
+                  </li> 
 
                <div class="Slider-nextprev">
                   <a href="#" class="unslider-arrow prev">Previous slide</a>

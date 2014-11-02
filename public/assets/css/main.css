@@ -138,7 +138,7 @@ body{
 }
 .Header-logo{
     width: 12.4375em;
-    height: 1.6m;
+    height: 1.6em;
     line-height: 5.8em;
     position: relative;
     top:2em;
@@ -178,10 +178,10 @@ body{
 
 .Slider-containerItem{
     width: 100%;
-    height: 46em;
+    height: 45rem;
     /*padding: 5% 0;*/
     display: table;
-    background-image: url('../img/image1.jpg');
+    /*background-image: url('../img/image1.jpg');*/
     background-repeat: no-repeat;
     background-size: cover;
     /*background-position: center;*/
@@ -333,7 +333,66 @@ body{
     }
 
 @media screen and (max-width: 360px){
-    }
+.Slider-containerItem{
+    width: 100%;
+    height: 32em;
+     background-position: center;
+
+}
+
+.Slider-titleContainer{
+
+    padding-top: 10em;
+   
+    /*padding: 20% 0;*/
+}
+
+.Slider-titulo{
+    
+   
+    font-size: 2em;
+
+}
+.Slider-subtitulo{
+   font-size: 0.6em;
+    width: 90%;
+   
+
+
+}
+
+.Slider-link{
+    
+    font-size: 0.9rem;
+    width: 50%;
+}
+.Header-logo{
+    width: 7em;
+    height: 0.9em;
+     left: -3em;
+     top: 1em;
+}
+
+.Header-singContainer{
+    display: none;
+}
+.Header{
+   height: 3em;  
+}
+
+.Header-menuLeftContainer
+{
+    
+    line-height: 3em;
+
+}
+.Header-menuLeft{
+  
+    padding-left: 1em;
+    font-size: 1em;
+
+}
+}
 
     
 /*  vertical-align: top;*/
