@@ -49,6 +49,7 @@
 }
 .icon-menu:before {
     content: "\e605";
+
 }
 
 /*====================HEADER========================*/
@@ -77,7 +78,6 @@ body{
     top: 0;
     width: 285px;
     z-index: 2;
-
 
 }
 .Body-container{
@@ -230,9 +230,10 @@ body{
 }
 .dots{
     position: absolute;
-    left: 0;
+    left: -2em;
     right: 0;
-    bottom: 7em;
+    margin: 0 auto;
+    bottom: 14em;
     z-index: 2;
 }
 .dot {
@@ -257,12 +258,24 @@ transition: background .5s, opacity .5s;
 }
 
 
+/*PROPIEDADES====================*/
 
 
+.Propiedades{
+    background: url('../img/fondo1.jpg');
+}
 
+.Propiedades-Container{
+    padding-top: 5.5em;
+}
 
-
-
+.Propiedades-carac{
+    color: white;
+    margin: 0 auto;
+    background: #000000;
+    width: 10%;
+ 
+}
 
 
 .MainMenu-closeRegister{
@@ -364,6 +377,7 @@ transition: background .5s, opacity .5s;
     width: 100%;
     height: 32em;
      background-position: center;
+    
 
 }
 

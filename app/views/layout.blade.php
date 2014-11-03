@@ -150,17 +150,12 @@
 
 
             
-
-
-
-
-
-
-
-
-            <section>
-             <p>jshdjhsd</p>
-             <p>kjshdksjhdj</p>
+            <section class="Propiedades">
+                 <article class="Propiedades-Container">
+                     <p class="Propiedades-carac">CARACTERÍSTICAS</p>
+                     <p class="Propiedades-app">EL APP DE UBER</p>
+                     <p class="Propiedades-descriptionApp">Pide, viaja y paga mediante tu dispositivo móvil</p>
+                </article>
             </section>
          </div>
          
